@@ -97,5 +97,4 @@ Please follow these steps to contribute to the project:
 - Special thanks to all the contributors and users who provided valuable feedback.
 
 ### Contact
-For any inquiries, please contact [Vashu Jain](mailto:jainvashu8533@gmail.com).
-```
+For any inquiries, please contact [Vashu Jain](mailto:jainvashu8533@gmail.com). 
