@@ -10,11 +10,7 @@
 [![Language Distribution](https://img.shields.io/badge/JavaScript-96.4%25-brightgreen.svg)](https://github.com/VashuJain2024/Firebase_Contact_WebApp)
 [![HTML](https://img.shields.io/badge/HTML-3.1%25-blue.svg)](https://github.com/VashuJain2024/Firebase_Contact_WebApp)
 [![CSS](https://img.shields.io/badge/CSS-0.5%25-pink.svg)](https://github.com/VashuJain2024/Firebase_Contact_WebApp)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Firebase_Contact_WebApp;A+cutting-edge+project;Built+with+❤️+by+VashuJain2024&font=Fira+Code&center=true&width=1000&height=100&color=f75c7e&vCenter=true&pause=1000&size=24" />
-</p>
-
+ 
 ## 🎯 Project Overview
 
 Firebase_Contact_WebApp is a modern and professional web application built to manage and store contact information seamlessly using Firebase as a backend. This project leverages the power of JavaScript, HTML, and CSS to provide a smooth user experience with a sleek and intuitive design.
@@ -23,9 +19,7 @@ Firebase_Contact_WebApp is a modern and professional web application built to ma
 - Efficient contact management
 - Real-time data synchronization
 - Secure and scalable architecture
-
-**Live Demo:** [coming soon]
-
+ 
 ## ✨ Key Features
 
 - 📞 Easily add, edit, and delete contacts
@@ -85,28 +79,6 @@ npm test
 - ESLint
 - Prettier
 
-## 📖 Detailed Documentation
-
-### Installation Guide
-Follow the steps in [Quick Start](#🚀-quick-start) to set up the project.
-
-### Configuration Options
-- You can configure Firebase settings in the `firebaseConfig.js` file.
-- Update `.env` for environment-specific configurations.
-
-### API Documentation
-- [API Documentation](https://github.com/VashuJain2024/Firebase_Contact_WebApp/blob/main/docs/api.md)
-
-### Usage Examples
-```javascript
-// Example: Adding a new contact
-firebase.firestore().collection('contacts').add({
-    name: 'John Doe',
-    email: 'johndoe@example.com',
-    phone: '123-456-7890'
-});
-```
-
 ## 🤝 Contributing
 
 ### Contribution Guidelines
@@ -120,18 +92,10 @@ Please follow these steps to contribute to the project:
 - Clone the repository.
 - Install dependencies using `npm install`.
 
-### Code of Conduct
-Please refer to [CODE_OF_CONDUCT.md](https://github.com/VashuJain2024/Firebase_Contact_WebApp/blob/main/CODE_OF_CONDUCT.md).
-
-## 📄 License & Credits
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/VashuJain2024/Firebase_Contact_WebApp/blob/main/LICENSE) file for details.
-
 ### Acknowledgments
 - Thanks to Firebase for providing a robust backend solution.
 - Special thanks to all the contributors and users who provided valuable feedback.
 
 ### Contact
-For any inquiries, please contact [Vashu Jain](mailto:vashujain2024@example.com).
+For any inquiries, please contact [Vashu Jain](mailto:jainvashu8533@gmail.com).
 ```
